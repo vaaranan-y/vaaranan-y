@@ -8,7 +8,7 @@ Feel free to take a look around my GitHub to get a better idea of the projects I
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaaranan-y&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=0096FF&icon_color=89CFF0&text_color=D3D3D3&bg_color=0,000000,152238" alt="My Github Stats">
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaaranan-y&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=0096FF&icon_color=89CFF0&text_color=D3D3D3&bg_color=0,000000,152238" alt="My Github Stats">-->
 
 <h1> How to reach me: </h1>
 <a href="https://www.linkedin.com/in/vyogalin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
