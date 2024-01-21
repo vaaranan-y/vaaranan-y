@@ -15,6 +15,3 @@ Feel free to take a look around my GitHub to get a better idea of the projects I
 <a href="https://www.instagram.com/vaaranan_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/vaaranan.yogalingam" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://vyogalin.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Personal Website-blueviolet" alt="Personal Website"></a>
-
-
-*CREDIT FOR STATS: https://github.com/anuraghazra/github-readme-stats*
