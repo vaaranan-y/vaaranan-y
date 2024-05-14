@@ -1,7 +1,7 @@
 <h1> Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> My name is Vaaranan! </h1>
 
 <p>
-I'm a 3rd Year Computer Science Student at the University of Waterloo, specializing in Digital Hardware. I am passionate about Cloud Computing, Backend Development, and IoT Technology. I am currently trying to find opportunities in all these areas. I am currently seeking internship opportunities for Summer 2023. My my areas of Expertise include AWS, Azure, Java, Python (Django), JavaScript (Node.js, Express.js, Angular.js, React.js), SQL (MySQL), NoSQL (MongoDB and DynamoDB), and I hope to add more to the list! 
+I'm a 4th Year Computer Science Student at the University of Waterloo, specializing in Digital Hardware and Artificial Intelligence. I am passionate about Cloud Computing, Backend Development, and IoT Technology. I am currently trying to find opportunities in all these areas. I am currently seeking internship opportunities for Summer 2023. My my areas of Expertise include AWS, Azure, Java, Python (Django), JavaScript (Node.js, Express.js, Angular.js, React.js), SQL (MySQL), NoSQL (MongoDB and DynamoDB), and I hope to add more to the list! 
 </p>
 <p>
 Feel free to take a look around my GitHub to get a better idea of the projects I have worked on, and to fork, raise issues, and make PRs. Or, feel free to message me (contect details below)!
