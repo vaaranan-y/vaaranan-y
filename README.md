@@ -5,6 +5,7 @@ I'm a 4th Year Computer Science Student at the University of Waterloo, specializ
 </p>
 <p>
 Feel free to take a look around my GitHub to get a better idea of the projects I have worked on, and to fork, raise issues, and make PRs. Or, feel free to message me (contect details below)!
+PFP Credit: soliduskim
 </p>
 
 
